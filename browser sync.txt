@@ -1,0 +1,7 @@
+configuração browser sync
+
+no terminal:
+	browser-sync start --server --files "*.html"
+
+download bootstrap	
+	opcionalmente baixar o zip do site https://getbootstrap.com/docs/4.6/getting-started/download/
