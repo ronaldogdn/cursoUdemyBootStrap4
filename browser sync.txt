@@ -1,7 +1,9 @@
 configuração browser sync
 
-no terminal:
-	browser-sync start --server --files "*.html"
+no terminal: para não precisar ficar dando f5
+	browser-sync start --server --files "*.html" "assets/css/*/*.css"
 
 download bootstrap	
 	opcionalmente baixar o zip do site https://getbootstrap.com/docs/4.6/getting-started/download/
+	
+também dá pra instalar via npm/yarn
